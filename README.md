@@ -1,7 +1,7 @@
 # **Belly_Button_Biodiversity**
 
 ## Overview of the analysis: 
-Create a webpage in HTML where a dynamic dashboard presents the findings of the research of the relation to beef and bacteria. The confidential data has to be available for research participants and fellow researchers. The data will be presented with anonymity to respect the identity of those involved. 
+Create a webpage in HTML where a dynamic dashboard presents the findings of the research of the relation to beef and bacteria. The confidential data has is available for research participants and fellow researchers. The data will be presented with anonymity to respect the identity of those involved. Participants can check their results with their ID number. Researchers have the opportunity to see the results on different visual presentations. 
 
 ### Resources
 

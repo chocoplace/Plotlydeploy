@@ -5,5 +5,5 @@ Create a webpage in HTML where a dynamic dashboard presents the findings of the 
 
 ### Resources
 
-Software: VS Code, JavaScript Plotly and HTML. 
+Software: VS Code, JavaScript, Plotly, D3.js and HTML. 
 
